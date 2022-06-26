@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "anymousvng/k8snodeapp"
+    dockerimagename = "anymousvng/k8snodeapplight"
     dockerImage = ""
   }
 
